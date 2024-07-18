@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-size: 1.10rem;
+    /* background-color: hsl(0, 0%, 69%); */
+    display: flex;
+    flex-direction: column;
+}
+
+.education {
+    height: 8rem;
+    background-color: rgb(171, 171, 242);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projects {
+    height: 10rem;
+    background-color: rgb(171, 171, 242);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills {
+    height: 8rem;
+    background-color: rgb(171, 171, 242);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    height: 19.5rem;
+    background-color: rgb(171, 171, 242);
+    padding: 1rem;
+}
+
+.email {
+    padding-top: 0.30rem;
+}
